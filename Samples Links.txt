@@ -1,22 +1,31 @@
 Designing Samples
 
-# TechFest 2k22
-Winner Board : http://tiny.cc/TechFest2k22Winners
-
-# Farewell 2k22
-Motion Banner : http://tiny.cc/Farewell2k22Banner
-Memory Slide Show : http://tiny.cc/TYCSClassMemorySlides
-
-# Digital Tiranga - Coding Challenge
-Banner : http://tiny.cc/DigitalTirangaBanner
-Flayer : http://tiny.cc/DigitalTirangaFlayer
-Certificate : http://tiny.cc/DigitalTirangaCertificate
-
 # Modern Securities & Challenges
 Digital Brochure : http://tiny.cc/ITCourseBrochure
 
 # Friend's Birthday
 Birhtday Wish Card : http://tiny.cc/KalyanBirthdayWishCard
 
+# Farewell 2k22
+Motion Banner : http://tiny.cc/Farewell2k22Banner
+Memories Slide Show : http://tiny.cc/TYCSClassMemorySlides
+
+# TechFest 2k22
+Winner Board : http://tiny.cc/TechFest2k22Winners
+
+# Digital Tiranga
+Banner : http://tiny.cc/DigitalTirangaBanner
+Flayer : http://tiny.cc/DigitalTirangaFlayer
+Certificate : http://tiny.cc/DigitalTirangaCertificate
+
 # G Suite for Education
-Presentation Link : http://tiny.cc/GSuitePresentation
+Cloud Presentation Link : http://tiny.cc/GSuitePresentation
+
+# Interactive MS Office Presentaions with Animations
+~Note~ Kindly Download PPT's before running them to see Animations.
+https://tinyurl.com/SochAlegriaPresentation
+https://tinyurl.com/NetflixAnalysisPresentation
+https://tinyurl.com/DeepLearningPresentation
+https://tinyurl.com/RandomForestPresentation
+https://tinyurl.com/HCIRoboticsPresentation
+https://tinyurl.com/BlockchainAIPresentation
